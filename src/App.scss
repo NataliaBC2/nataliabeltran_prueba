@@ -1,7 +1,74 @@
+@import "assets/styles/global";
 :root {
+  --color-white: #ffffff;
   --color-primary: #ffe703;
   --color-gray: #ebebeb;
   --color-gray-thin: #666;
   --color-gray-regular: #999;
   --color-blue: #3483fa;
+  --color-gray-bold: #eeeeee;
+  --color-title: #333333;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "proxima-nova-regular";
+  background-color: var(--color-gray);
+}
+
+img {
+  max-width: 100%;
+}
+
+
+
+.container {
+  max-width: 90%;
+  margin: 0 auto;
+  @include media-tablet-landscape {
+    max-width: 70%
+  }
+}
+
+ul, li {
+  list-style: none;
+  padding: 0;
+}
+
+img {
+  width: 100%;
+}
+
+a, button {
+  text-decoration: none;
+  cursor: pointer;
+}
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  box-sizing: border-box;
+}
+
+main {
+  background-color: var(--color-gray);
+  padding-bottom: 60px;
+  height: 100%;
+}
+
+.layaout_main_white,
+.layaout_main_white_internal {
+  background-color: var(--color-white);
+  border-radius: 4px;
+  margin-bottom: 60px;
+}
+
+.layaout_main_white_internal {
+  padding: 30px;
 }

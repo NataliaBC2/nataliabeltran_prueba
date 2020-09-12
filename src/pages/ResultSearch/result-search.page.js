@@ -3,8 +3,6 @@ import { Link } from 'wouter';
 import { Helmet, HelmetProvider } from "react-helmet-async";
 import { useSearchParam } from 'react-use';
 
-import './result-search.page.scss';
-
 import { CardComponent } from '../../commons/components/Card/card.component';
 import { BreadCumbsComponent } from '../../commons/components/BreadCumbs/bread-cumbs.component';
 import { SearchResultInformation } from './hook/context-search-result.hook';

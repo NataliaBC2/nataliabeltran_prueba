@@ -1,0 +1,36 @@
+@mixin fontface($name, $file, $weight: normal, $style: normal) {
+  @font-face {
+    font-family: "#{$name}";
+    src: url('../fonts/#{$file}.eot');
+    src: url('../fonts/#{$file}.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/#{$file}.woff') format('woff'),
+    url('../fonts/#{$file}.ttf') format('truetype'),
+    url('../fonts/#{$file}.svg?#webfont') format('svg');
+    font-weight: $weight;
+    font-style: $style;
+  }
+}
+@include fontface('proxima-nova-regular', 'proxima-nova-regular');
+@include fontface('proxima-nova-bold', 'proxima-nova-bold');
+@include fontface('proxima-nova-light', 'proxima-nova-light');
+
+@include fontface('icomoon', 'icon_fonts/icomoon')
+
+
+[class^="icon-"], [class*=" icon-"] {
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-chevron-right:before {
+  content: "\e902";
+}
+.icon-search:before {
+  content: "\e900";
+}

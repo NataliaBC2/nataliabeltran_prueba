@@ -1,41 +1,38 @@
 .navigation_breadcrumb {
   list-style: none;
   padding: 16px 0;
-}
-
-.navigation_breadcrumb {
   li {
     display: inline-block;
     position: relative;
     padding-right: 10px;
     &:last-child {
-      font-family: "proxima_novabold";
       p {
+        font-family: "proxima-nova-bold";
         &:after {
           display: none;
-
         }
       }
     }
-    .text_breadcrumb {
-      color: #999;
-      font-size: 14px;
-      text-decoration: none;
-      &:after {
-        content: "\e902";
-        font-family: 'icomoon';
-        speak: never;
-        font-style: normal;
-        font-weight: normal;
-        font-variant: normal;
-        text-transform: none;
-        line-height: 1;
-        -webkit-font-smoothing: antialiased;
-        -moz-osx-font-smoothing: grayscale;
-        position: relative;
-        top: 2px;
-        margin-left: 5px;
-      }
-    }
   }
+}
+
+.text_breadcrumb {
+    color: var(--color-gray-regular);
+    font-size: 14px;
+    text-decoration: none;
+    &:after {
+      content: "\e902";
+      font-family: 'icomoon';
+      speak: never;
+      font-style: normal;
+      font-weight: normal;
+      font-variant: normal;
+      text-transform: none;
+      line-height: 1;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      position: relative;
+      top: 2px;
+      margin-left: 5px;
+    }
 }

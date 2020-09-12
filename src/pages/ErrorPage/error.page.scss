@@ -1,25 +1,26 @@
+@import "../../assets/styles/global.scss";
+
 .page_error {
   position: absolute;
   left: 50%;
   top: 50%;
-  transform: translate(-50%, -50%);
-  -webkit-transform: translate(-50%, -50%);
+  @include transform(translate(-50%, -50%));
   text-align: center;
   width: 100%;
   img {
     width: 150px;
   }
   .title_error {
-    font-family: "proxima_novabold";
+    font-family: "proxima-nova-bold";
     margin: 20px 0;
     font-size: 20px;
   }
   .link_error {
-    background: #3483fa;
-    color: #fff;
+    background: var(--color-blue);
+    color: var(--color-white);
     padding: 10px;
     border-radius: 4px;
-    font-family: 'proxima_novalight';
+    font-family: 'proxima-nova-light';
     font-size: 15px;
   }
 }
