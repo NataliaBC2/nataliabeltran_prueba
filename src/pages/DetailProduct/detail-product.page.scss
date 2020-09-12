@@ -1,0 +1,51 @@
+.card_information_detail {
+  margin: 40px 0 0;
+}
+.description_detail{
+  margin: 40px 0;
+}
+.tag_price {
+  font-size: 35px;
+  margin: 20px 0 30px;
+  width: 100%;
+}
+.card_result_btn {
+  display: block;
+  background: #3483fa;
+  border-color: #3483fa;
+  font-family: 'proxima_novalight';
+  color: #fff;
+  padding: 12px;
+  width: 100%;
+  font-size: 15px;
+  border-radius: 4px;
+  text-align: center;
+}
+.tag_detail {
+  display: block;
+  margin: 10px 0;
+}
+.image_result {
+  height: 400px;
+  overflow: hidden;
+  width: 100%;
+  @media (min-width: 768px) {
+    width: 60%;
+    margin-right: 30px;
+    height: 425px;
+    display: inline-flex;
+  }
+  img {
+    object-fit: contain;
+    height: 100%;
+    width: 100%;
+  }
+
+}
+.card_information_price {
+  @media (min-width: 768px) {
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+  }
+}

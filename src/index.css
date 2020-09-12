@@ -1,0 +1,20 @@
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+body {
+    background-color: var(--color-gray) ;
+}
+html {
+    box-sizing: border-box;
+}
+ul, li {
+    list-style: none;
+    padding: 0;
+}
+img {
+    width: 100%;
+}
+a, button {
+    text-decoration: none;
+    cursor: pointer;
+}
