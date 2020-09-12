@@ -2,38 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d074dad-66fc-4b5b-8dfa-b94b3a817a0e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/proxima-nova-bold.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/proxima-nova-bold.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/proxima-nova-bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/proxima-nova-light.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/proxima-nova-light.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/proxima-nova-light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/proxima-nova-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/proxima-nova-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/proxima-nova-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/styles/fonts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/styles/global.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/styles/mixins.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/fonts/proxima_nova_alt_light-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/fonts/proxima-nova-light.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/fonts/proxima_nova_alt_light-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/fonts/proxima-nova-light.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/fonts/proxima_nova_alt_thin-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/fonts/proxima_nova_alt_thin-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/fonts/proxima_nova_bold-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/fonts/proxima-nova-bold.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/fonts/proxima_nova_bold-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/fonts/proxima-nova-bold.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/fonts/proximanova-regular-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/fonts/proxima-nova-regular.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/fonts/proximanova-regular-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/fonts/proxima-nova-regular.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/commons/components/BreadCumbs/bread-cumbs.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/commons/components/BreadCumbs/bread-cumbs.component.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/commons/components/Card/card.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/commons/components/Card/card.component.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/commons/components/Header/header.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/commons/components/Header/header.component.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/commons/components/Loader/loaders.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/commons/components/Loader/loaders.component.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/DetailProduct/detail-product.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/DetailProduct/detail-product.page.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/ErrorPage/error.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/ErrorPage/error.page.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/ResultSearch/result-search.page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/ResultSearch/result-search.page.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/ResultSearch/result-search.page.scss" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -45,29 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/DetailProduct/detail-product.page.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/App.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1095">
-              <caret line="73" column="1" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -145,12 +93,12 @@
         <option value="$PROJECT_DIR$/src/commons/components/Loader/loaders.component.scss" />
         <option value="$PROJECT_DIR$/src/pages/ErrorPage/error.page.scss" />
         <option value="$PROJECT_DIR$/src/commons/components/Header/header.component.scss" />
-        <option value="$PROJECT_DIR$/src/commons/components/Card/card.component.scss" />
         <option value="$PROJECT_DIR$/src/pages/DetailProduct/detail-product.page.scss" />
         <option value="$PROJECT_DIR$/src/assets/styles/fonts.scss" />
         <option value="$PROJECT_DIR$/src/assets/styles/global.scss" />
         <option value="$PROJECT_DIR$/src/commons/components/BreadCumbs/bread-cumbs.component.scss" />
         <option value="$PROJECT_DIR$/src/App.scss" />
+        <option value="$PROJECT_DIR$/src/commons/components/Card/card.component.scss" />
       </list>
     </option>
   </component>
@@ -273,16 +221,15 @@
       <option name="presentableId" value="Default" />
       <updated>1599909430189</updated>
       <workItem from="1599909431496" duration="18046000" />
-      <workItem from="1599943104526" duration="8387000" />
+      <workItem from="1599943104526" duration="8771000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26433000" />
+    <option name="totallyTimeSpent" value="26817000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="756" y="23" width="924" height="963" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27464008" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -563,20 +510,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/DetailProduct/detail-product.page.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/App.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1095">
           <caret line="73" column="1" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/DetailProduct/detail-product.page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="30" column="15" lean-forward="true" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
